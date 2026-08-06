@@ -11,7 +11,7 @@ The dataset includes:
 * Race/Ethnicity                 
 * Parental level of education      
 * Lunch type   
-* Test preparation course        
+* Test preparation course                    
 * Reading, Writing, and Math scores     
        
 ## Workflow                        
