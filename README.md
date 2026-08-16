@@ -1,5 +1,5 @@
    
-## Objective
+## Objectives
 
 The goal of this project is to analyze factors affecting student performance and build machine learning models to predict math scores .
 
