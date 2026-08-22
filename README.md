@@ -15,7 +15,7 @@ The dataset includes:
 * Reading, Writing, and Math scores                
        
 ## Workflow                                                  
-  
+   
 ### 1. Data Exploration  
            
 * Checked dataset structure and summary statistics  
