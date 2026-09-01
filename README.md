@@ -20,7 +20,7 @@ The dataset includes:
             
 * Checked dataset structure and summary statistics  
 * Identified key patterns      
- 
+        
 ### 2. Data Visualization                             
         
 * Analyzed score distributions
