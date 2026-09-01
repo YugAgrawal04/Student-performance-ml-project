@@ -16,7 +16,7 @@ The dataset includes:
        
 ## Workflow                                                  
    
-### 1. Data Exploration  
+### 1. Data Exploration         
             
 * Checked dataset structure and summary statistics  
 * Identified key patterns      
