@@ -19,7 +19,7 @@ The dataset includes:
 ### 1. Data Exploration         
             
 * Checked dataset structure and summary statistics  
-* Identified key patterns      
+* Identified key patterns             
         
 ### 2. Data Visualization                             
         
